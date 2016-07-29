@@ -1,5 +1,7 @@
 # momentum-desktop
 
+Download wallper from momentum famous chrome tab plugin
+
 E:\Bitbucket\momentum-desktop>python momentum.py C:\Users\Tushar\Pictures
 Downloading https://momentumdash.com/backgrounds/01.jpg to C:\Users\Tushar\Pictures\01.jpg
 Downloading https://momentumdash.com/backgrounds/02.jpg to C:\Users\Tushar\Pictures\02.jpg
